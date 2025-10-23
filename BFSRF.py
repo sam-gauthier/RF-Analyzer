@@ -13,7 +13,7 @@ from sklearn.inspection import PartialDependenceDisplay
 from sklearn.decomposition import PCA
 import joblib
 
-st.set_page_config(layout="wide", page_title="RF Analyzer")
+st.set_page_config(page_title="RF Analyzer")
 st.title("Random Forest Analyzer")
 st.write(
     "Upload a dataset, train a Random Forest model, and visualize your data."

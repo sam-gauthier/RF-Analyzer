@@ -67,7 +67,7 @@ Author: Samantha Gauthier
 This program can be used locally or via web browser.
 
 ### 🔗 Web Browser Application
-Link: https://rf-analyzer-baptiste.streamlit.app/
+Link: https://rf-analyzer.streamlit.app/
 - Copy and paste into your preferred web browser.
 
 > [NOTE]

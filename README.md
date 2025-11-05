@@ -3,7 +3,7 @@ This project is a machine learning web application (via Streamlit) for interacti
 - Upload your dataset, clean and encode it automatically, train a Random Forest model (classification or regression, selected automatically), visualize the results, and export both your trained model and cleaned data in one place.
 
 Author: Samantha Gauthier
-Email: samantha.gauthier7@gmail.com
+- Email: samantha.gauthier7@gmail.com
 
 ---
 
@@ -42,6 +42,8 @@ Email: samantha.gauthier7@gmail.com
 - Reuse previous .joblib models to avoid retraining and maintain model accuracy
 - Verfies dataset compatibility.
 
+---
+
 ## 🧩 Dependencies
 | Library                    | Purpose                                                     |
 | -------------------------- | ----------------------------------------------------------- |
@@ -58,6 +60,8 @@ Email: samantha.gauthier7@gmail.com
 
 > [NOTE]
 > All dependencies are listed in requirements.txt for installation.
+
+---
 
 ## 🌐 Accessing RF Analyzer
 This program can be used locally or via web browser.
@@ -89,6 +93,8 @@ streamlit run RF.py
 > Streamlit will automatically open the app in-browser on your local machine.
 > The app may take a while to load.
 
+---
+
 ## 🧠 Usage
 1. Upload a CSV - Your dataset will be loaded and previewed
 2. Model Setup - Choose the target feature and adjust the parameters
@@ -96,6 +102,8 @@ streamlit run RF.py
 4. Visualize - View regression lines, feature importance for predictions, confusion matrix, etc.
 5. Predit - Enter feature values to make your own predictions using the trained model.
 6. Export - Download cleaned dataset and trained model.
+
+---
 
 ## 📄 License
 This project is open-source under the MIT License.
